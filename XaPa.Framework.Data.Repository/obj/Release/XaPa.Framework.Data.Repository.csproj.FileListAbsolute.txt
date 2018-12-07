@@ -1,0 +1,12 @@
+C:\Users\Özgür\source\repos\XaPa\XaPa.Framework.Data.Repository\bin\Release\XaPa.Framework.Data.Repository.dll.config
+C:\Users\Özgür\source\repos\XaPa\XaPa.Framework.Data.Repository\bin\Release\XaPa.Framework.Data.Repository.dll
+C:\Users\Özgür\source\repos\XaPa\XaPa.Framework.Data.Repository\bin\Release\XaPa.Framework.Data.Repository.pdb
+C:\Users\Özgür\source\repos\XaPa\XaPa.Framework.Data.Repository\bin\Release\EntityFramework.dll
+C:\Users\Özgür\source\repos\XaPa\XaPa.Framework.Data.Repository\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Özgür\source\repos\XaPa\XaPa.Framework.Data.Repository\bin\Release\EntityFramework.xml
+C:\Users\Özgür\source\repos\XaPa\XaPa.Framework.Data.Repository\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Özgür\source\repos\XaPa\XaPa.Framework.Data.Repository\obj\Release\XaPa.Framework.Data.Repository.csprojAssemblyReference.cache
+C:\Users\Özgür\source\repos\XaPa\XaPa.Framework.Data.Repository\obj\Release\XaPa.Framework.Data.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Özgür\source\repos\XaPa\XaPa.Framework.Data.Repository\obj\Release\XaPa.Framework.Data.Repository.csproj.CopyComplete
+C:\Users\Özgür\source\repos\XaPa\XaPa.Framework.Data.Repository\obj\Release\XaPa.Framework.Data.Repository.dll
+C:\Users\Özgür\source\repos\XaPa\XaPa.Framework.Data.Repository\obj\Release\XaPa.Framework.Data.Repository.pdb

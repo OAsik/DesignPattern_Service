@@ -1,0 +1,9 @@
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Helper\bin\Debug\XaPa.Service.Helper.dll
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Helper\bin\Debug\XaPa.Service.Helper.pdb
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Helper\bin\Debug\XaPa.Service.Model.WebModel.dll
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Helper\bin\Debug\XaPa.Service.Model.WebModel.pdb
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Helper\obj\Debug\XaPa.Service.Helper.csprojAssemblyReference.cache
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Helper\obj\Debug\XaPa.Service.Helper.csproj.CoreCompileInputs.cache
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Helper\obj\Debug\XaPa.Service.Helper.csproj.CopyComplete
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Helper\obj\Debug\XaPa.Service.Helper.dll
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Helper\obj\Debug\XaPa.Service.Helper.pdb

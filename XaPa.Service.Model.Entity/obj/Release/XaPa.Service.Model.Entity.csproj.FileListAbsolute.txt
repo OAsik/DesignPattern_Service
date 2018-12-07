@@ -1,0 +1,12 @@
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Model.Entity\bin\Release\XaPa.Service.Model.Entity.dll.config
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Model.Entity\bin\Release\XaPa.Service.Model.Entity.dll
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Model.Entity\bin\Release\XaPa.Service.Model.Entity.pdb
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Model.Entity\bin\Release\EntityFramework.dll
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Model.Entity\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Model.Entity\bin\Release\EntityFramework.xml
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Model.Entity\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Model.Entity\obj\Release\XaPa.Service.Model.Entity.csprojAssemblyReference.cache
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Model.Entity\obj\Release\XaPa.Service.Model.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Model.Entity\obj\Release\XaPa.Service.Model.Entity.csproj.CopyComplete
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Model.Entity\obj\Release\XaPa.Service.Model.Entity.dll
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Model.Entity\obj\Release\XaPa.Service.Model.Entity.pdb

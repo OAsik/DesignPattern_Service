@@ -1,0 +1,12 @@
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Mapper.Manager\bin\Release\XaPa.Service.Mapper.Manager.dll
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Mapper.Manager\bin\Release\XaPa.Service.Mapper.Manager.pdb
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Mapper.Manager\bin\Release\XaPa.Service.Model.Entity.dll
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Mapper.Manager\bin\Release\XaPa.Service.Model.WebModel.dll
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Mapper.Manager\bin\Release\XaPa.Service.Model.Entity.pdb
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Mapper.Manager\bin\Release\XaPa.Service.Model.Entity.dll.config
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Mapper.Manager\bin\Release\XaPa.Service.Model.WebModel.pdb
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Mapper.Manager\obj\Release\XaPa.Service.Mapper.Manager.csprojAssemblyReference.cache
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Mapper.Manager\obj\Release\XaPa.Service.Mapper.Manager.csproj.CoreCompileInputs.cache
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Mapper.Manager\obj\Release\XaPa.Service.Mapper.Manager.csproj.CopyComplete
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Mapper.Manager\obj\Release\XaPa.Service.Mapper.Manager.dll
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Mapper.Manager\obj\Release\XaPa.Service.Mapper.Manager.pdb

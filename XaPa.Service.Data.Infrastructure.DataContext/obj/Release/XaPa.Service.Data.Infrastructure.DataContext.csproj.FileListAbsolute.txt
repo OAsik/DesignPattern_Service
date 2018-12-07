@@ -1,0 +1,15 @@
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Data.Infrastructure.DataContext\bin\Release\XaPa.Service.Data.Infrastructure.DataContext.dll.config
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Data.Infrastructure.DataContext\bin\Release\XaPa.Service.Data.Infrastructure.DataContext.dll
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Data.Infrastructure.DataContext\bin\Release\XaPa.Service.Data.Infrastructure.DataContext.pdb
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Data.Infrastructure.DataContext\bin\Release\EntityFramework.dll
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Data.Infrastructure.DataContext\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Data.Infrastructure.DataContext\bin\Release\XaPa.Service.Model.Entity.dll
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Data.Infrastructure.DataContext\bin\Release\XaPa.Service.Model.Entity.pdb
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Data.Infrastructure.DataContext\bin\Release\XaPa.Service.Model.Entity.dll.config
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Data.Infrastructure.DataContext\bin\Release\EntityFramework.xml
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Data.Infrastructure.DataContext\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Data.Infrastructure.DataContext\obj\Release\XaPa.Service.Data.Infrastructure.DataContext.csprojAssemblyReference.cache
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Data.Infrastructure.DataContext\obj\Release\XaPa.Service.Data.Infrastructure.DataContext.csproj.CoreCompileInputs.cache
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Data.Infrastructure.DataContext\obj\Release\XaPa.Service.Data.Infrastructure.DataContext.csproj.CopyComplete
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Data.Infrastructure.DataContext\obj\Release\XaPa.Service.Data.Infrastructure.DataContext.dll
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Data.Infrastructure.DataContext\obj\Release\XaPa.Service.Data.Infrastructure.DataContext.pdb

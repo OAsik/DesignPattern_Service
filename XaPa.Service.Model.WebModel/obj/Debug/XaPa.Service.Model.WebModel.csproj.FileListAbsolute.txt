@@ -1,0 +1,6 @@
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Model.WebModel\bin\Debug\XaPa.Service.Model.WebModel.dll
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Model.WebModel\bin\Debug\XaPa.Service.Model.WebModel.pdb
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Model.WebModel\obj\Debug\XaPa.Service.Model.WebModel.csprojAssemblyReference.cache
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Model.WebModel\obj\Debug\XaPa.Service.Model.WebModel.csproj.CoreCompileInputs.cache
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Model.WebModel\obj\Debug\XaPa.Service.Model.WebModel.dll
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Model.WebModel\obj\Debug\XaPa.Service.Model.WebModel.pdb

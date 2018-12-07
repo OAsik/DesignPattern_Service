@@ -1,0 +1,17 @@
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Data.Repository.RepositoryBase\bin\Release\XaPa.Service.Data.Repository.RepositoryBase.dll
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Data.Repository.RepositoryBase\bin\Release\XaPa.Service.Data.Repository.RepositoryBase.pdb
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Data.Repository.RepositoryBase\bin\Release\XaPa.Framework.Data.Repository.dll
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Data.Repository.RepositoryBase\bin\Release\XaPa.Service.Model.Entity.dll
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Data.Repository.RepositoryBase\bin\Release\EntityFramework.dll
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Data.Repository.RepositoryBase\bin\Release\XaPa.Framework.Data.Repository.pdb
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Data.Repository.RepositoryBase\bin\Release\XaPa.Framework.Data.Repository.dll.config
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Data.Repository.RepositoryBase\bin\Release\XaPa.Service.Model.Entity.pdb
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Data.Repository.RepositoryBase\bin\Release\XaPa.Service.Model.Entity.dll.config
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Data.Repository.RepositoryBase\bin\Release\EntityFramework.xml
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Data.Repository.RepositoryBase\obj\Release\XaPa.Service.Data.Repository.RepositoryBase.csprojAssemblyReference.cache
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Data.Repository.RepositoryBase\obj\Release\XaPa.Service.Data.Repository.RepositoryBase.csproj.CoreCompileInputs.cache
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Data.Repository.RepositoryBase\obj\Release\XaPa.Service.Data.Repository.RepositoryBase.csproj.CopyComplete
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Data.Repository.RepositoryBase\obj\Release\XaPa.Service.Data.Repository.RepositoryBase.dll
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Data.Repository.RepositoryBase\obj\Release\XaPa.Service.Data.Repository.RepositoryBase.pdb
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Data.Repository.RepositoryBase\bin\Release\XaPa.Service.Model.WebModel.dll
+C:\Users\Özgür\source\repos\XaPa\XaPa.Service.Data.Repository.RepositoryBase\bin\Release\XaPa.Service.Model.WebModel.pdb
