@@ -1,0 +1,6 @@
+I created this repo after my manager asked me an API service to use on his Xamarin training lectures. So, I decided to wrap my work
+into Unit of Work and Repository pattern which communicates with Business Operation layers instead of directly with Controller
+methods.
+
+Ozgur ASIK
+07.12.2018
