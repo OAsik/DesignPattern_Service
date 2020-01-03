@@ -1,5 +1,5 @@
-I created this repo after my manager asked me an API service to use on his Xamarin training lectures. So, I decided to wrap my work
-into Unit of Work and Repository pattern which communicates with Business Operation layers instead of directly with Controller
+An n-tier API service to be connected to Xamarin and/or Angular applications. I decided to wrap my work
+into Unit of Work and Repository patterns which communicates with Business Operation layers instead of directly with Controller
 methods.
 
 Ozgur ASIK
